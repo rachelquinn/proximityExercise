@@ -1,0 +1,8 @@
+1. Each div is 300px
+2. Made each of the boxes widths smaller.
+3. Both of the divs moves to the right of the page.
+4. Both of the divs moved to the left of the page.
+5.The divs resize so that they are both seen on the minimized page.
+6. They move to opposite ends of the page. Div1 to the right and Div2 to the left.
+7. Div1 becomes the length of 2000px and is layered on top of Div2, which stays the same width.
+9. The divs resize based on the browsers width, they move to be 35% of whatever size the page is.
